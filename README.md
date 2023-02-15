@@ -9,7 +9,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=adobephotoshop)
 
 ## Мои социальные сети
-![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)
+![Telegram(vk.cc)](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)
 ![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord)
 ![VK](https://img.shields.io/badge/-VKontakte-000?style=for-the-badge&logo=vk)
 ![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch)
