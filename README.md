@@ -4,7 +4,6 @@
 
 ### Actions
 ![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=adobephotoshop)
