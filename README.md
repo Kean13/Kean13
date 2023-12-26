@@ -1,6 +1,4 @@
-![Header](https://github.com/Kean13/Kean13/blob/main/assets/Banner.png)
-
-# Developer & Designer
+# Programmer, Designer
 
 ### Actions
 ![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
