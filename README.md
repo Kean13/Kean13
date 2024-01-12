@@ -2,6 +2,7 @@
 
 ### Skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![C#](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=csharp)
 ![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
