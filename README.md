@@ -11,4 +11,3 @@
 ### Contact me with
 [![Telegram(vk.cc)](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/keaaaan)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord)](https://discordapp.com/users/601666931338248192/)
-[![VK](https://img.shields.io/badge/-VKontakte-000?style=for-the-badge&logo=vk)](https://vk.com/keaaaan)
